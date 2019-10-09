@@ -1,0 +1,14 @@
+Dynamic parts of the Display:
+1. Items on the to do list
+2. Dynamically change the outstanding total as they eneter more items in the list.
+3. Add button - to add a new item to the list
+4. Delete button to delete an item from the list
+5. Done tick box. When a task has been completed a tick is put next to it.
+6. Need to be able to scroll in each area
+
+Issues with dynamic parts of screen:
+1.Need to validate information that users enter
+2.Should I limit how long the description is?
+3.How do we save the data so that it appears next time they use it.
+4.When the user clicks the completed/delete button move to the complete/delete list
+5.How long do we keep comleted and deleted tasks?
