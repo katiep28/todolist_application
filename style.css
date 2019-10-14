@@ -1,11 +1,26 @@
 
 body{
-    background-color: aqua;
+    background-color: rgba(0, 229, 255, 0.256);
     
+    }
+    .col-blue {
+        background-color: rgba(20, 73, 220, 0.844);
     }
     .col-red{
         background-color: crimson;
     }
     .col-yell{
         background-color: rgb(167, 220, 20);
+    }
+
+    .text_white {
+        text-decoration-color: aliceblue;
+
+    }
+    h1 {
+        color: blue;
+        text-align: center;
+    }
+    h2 {
+        text-align: center;
     }
